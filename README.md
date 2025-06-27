@@ -98,9 +98,9 @@ AI-detected critical temperature: β_c ≈ 0.441
 
 The network achieves 99.75% accuracy in phase classification and locates the critical temperature within 0.2% of the theoretical value—all without knowing any physics.
 
-![Alt text](./output1c.png) 
+![Alt text](./output1d.png) 
 
-![Alt text](./output1d.png)
+![Alt text](./output1c.png)
 
 ![Alt text](./output1a.png)
 
@@ -112,12 +112,12 @@ The network achieves 99.75% accuracy in phase classification and locates the cri
 The generated visualization reveals the complete story:
 
 **Top Row**: Field configurations from each phase
-- Left: High temperature chaos—random fluctuations dominate
-- Right: Low temperature order—coherent domains emerge
+- High temperature chaos—random fluctuations dominate
+- Low temperature order—coherent domains emerge
 
 **Bottom Row**: The discovery process
-- Left: Learning curve showing rapid convergence
-- Right: Phase probability versus temperature, with the critical point clearly visible
+- Learning curve showing rapid convergence
+- Phase probability versus temperature, with the critical point clearly visible
 
 The sharp transition in the probability curve isn't programmed—it emerges from the network's learned understanding of order and disorder.
 
