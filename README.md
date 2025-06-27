@@ -98,6 +98,15 @@ AI-detected critical temperature: β_c ≈ 0.441
 
 The network achieves 99.75% accuracy in phase classification and locates the critical temperature within 0.2% of the theoretical value—all without knowing any physics.
 
+![Alt text](./output1c.png)
+
+![Alt text](./output1d.png)
+
+![Alt text](./output1a.png)
+
+![Alt text](./output1b.png)
+
+
 ## Understanding the Output
 
 The generated visualization reveals the complete story:
